@@ -1,0 +1,25 @@
+{
+  "name": "Nectar",
+  "symbol": "NECTAR",
+  "description": "Nectar is the zero-gas, alignment-driven energy layer for the Alvearium OS. It enables post-token computational flows and agentic memory transactions across the cryptosphere.",
+  "version": "v0.1-alpha",
+  "anchors": {
+    "anchors.md": "https://arweave.net/gU742_NxFAZ_WC2XNyYZzwWEddfgyIR4kezHPAG-EQk",
+    "anchors_metadata.md": "https://arweave.net/72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ",
+    "anchors_manifest_hash.md": "https://arweave.net/YK4h0pepnRw5lFmxwA9-61ODxEbnlyCSFznH9DUfhyQ"
+  },
+  "documents": {
+    "manifesto": "https://arweave.net/OCcaTiv9Dmbtic-We9vSzvpxUp7TiJ6npCW4diZIukg",
+    "whitepaper": "https://arweave.net/hufopCySVx-h9IpZoPV6ZDTXkKFS8x6m9elK6yW5LVM",
+    "readme": "https://arweave.net/Kp3cSgObV0-zEdnvKgIcMJydCTghToa5uImMEXrkX40"
+  },
+  "project": "Alvearium",
+  "role": "Post-Gas Computation & Alignment Layer",
+  "license": "Open Source Without Malice",
+  "integrity": {
+    "sha256_anchors": "<INSERT_ANCHORS_SHA256>",
+    "sha256_metadata": "<INSERT_METADATA_SHA256>",
+    "sha256_manifest": "<INSERT_MANIFEST_SHA256>",
+    "sha256_repo_snapshot": "<OPTIONAL_FULL_SNAPSHOT_HASH>"
+  }
+}
