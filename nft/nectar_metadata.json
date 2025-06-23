@@ -4,9 +4,9 @@
   "description": "Nectar is the zero-gas, alignment-driven energy layer for the Alvearium OS. It enables post-token computational flows and agentic memory transactions across the cryptosphere.",
   "version": "v0.1-alpha",
   "anchors": {
-    "anchors.md": "https://arweave.net/gU742_NxFAZ_WC2XNyYZzwWEddfgyIR4kezHPAG-EQk",
-    "anchors_metadata.md": "https://arweave.net/72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ",
-    "anchors_manifest_hash.md": "https://arweave.net/YK4h0pepnRw5lFmxwA9-61ODxEbnlyCSFznH9DUfhyQ"
+    "anchors.md": "https://arweave.net/SBA7Fjwj9v7Z7nnSxSXFOMefA2DXenYKAi0oByKpSd0",
+    "anchors_metadata.md": "https://arweave.net/i-Io7Qy_S5HzWcQoJdEMI1NTx3J9AwFvYZaTFeHe470",
+    "anchors_manifest_hash.md": "https://arweave.net/pg5AlvJylepa1WqWwWHqKO55F_v0GeeHRpB4sjOB7VQ"
   },
   "documents": {
     "manifesto": "https://arweave.net/OCcaTiv9Dmbtic-We9vSzvpxUp7TiJ6npCW4diZIukg",
